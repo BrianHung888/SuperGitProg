@@ -5,4 +5,5 @@ from sqlite3 import ProgrammingError
 namespace ProGitForProgrammers
 {
     class Program{}
+    Class Hahaha{}
 }
